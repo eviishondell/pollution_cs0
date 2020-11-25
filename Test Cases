@@ -1,0 +1,4 @@
+Test Cases
+Test cases on this website were very hard to apply. The only place I see that this can work is the Data page. This is because it takes in user input. 
+If the user does not enter one of the seven continents, it will nit return anything, The program will only proceed if the user types Antarctica, Australia, 
+North America, South America, Europe, and Asia.
