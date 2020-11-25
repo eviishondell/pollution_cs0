@@ -1,0 +1,6 @@
+Instructions
+The goal of this project is to raise awareness of the effects of pollution.
+The first page displays pictures of the animals being affected. (Home)
+The second page explained what pollution is and the differebt types. (WHat is it?)
+This page is a guide that people can follow to decrease the effects of pollution.(How can we help)
+This page takes in user input (continents) and returns its rank along with the countries with the highest amounts of pollution. (Data)
